@@ -3,12 +3,12 @@ layout: blog
 title: Academics
 slug: /academics
 ---
-
+# Master of Science, Data Analytics Engineering <br />
 ## George Mason University —  Fairfax, VA	<br /> 
 2022 - 2024 <br />
-Master of Science, Data Analytics Engineering <br />
 Cumulative GPA: 3.8/4.0 <br />
 
+# Bachelor of Science, Mathematics & Informations Systems <br />
 ## University of Pittsburgh at Johnstown — Johnstown, PA <br />
 2015 - 2019 <br />
 Bachelor of Science, Mathematics (Actuarial Concentration) <br />
