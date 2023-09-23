@@ -6,11 +6,13 @@ profile_picture:
 ---
 
 <p>
-  Greetings! Happy to have you visit. </br>
+  Greetings! Happy to have you visit.
 </p>
 
+![girl](/assets/img/profile-pic.jpg)
+
 <p>
- <b> Goal: </b> Optimize existing data processes thru mathematical modeling, ensure effective design of reporting systems, and provide specialized insights to those working on the frontlines of social welfare & government solutions. Hope to carve a space for myself at the intersection of data analytics, software development, and visual storytelling. </br>
+ <b> Goal: </b> Optimize existing data processes thru mathematical modeling, ensure effective design of reporting systems, and provide specialized insights to those working on the frontlines of social welfare & government solutions. Hope to carve a space for myself at the intersection of data analytics, software development, and visual storytelling.
 </p>
 
 <p>
