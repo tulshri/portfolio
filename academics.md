@@ -7,15 +7,31 @@ slug: /academics
 ### George Mason University —  Fairfax, VA	<br /> 
 ### 2022 - 2024 <br />
 Cumulative GPA: 3.8/4.0 <br />
+Key Courses: <br />
+* Practical Optimization & Decision Analysis (Gurobi, Analytic Solver, SQLite, Python)
+* Applied Statistics & Visualization for Analytics with (R, RStudio)                                                                                            
+* Predictive Analysis (R, RStudio)
+* Introduction to Natural Language Processing (R, RStudio)  
 
-# Bachelor of Science, Mathematics & Informations Systems <br />
-### University of Pittsburgh at Johnstown — Johnstown, PA <br />
-### 2015 - 2019 <br />
+## Bachelor of Science, Mathematics & Informations Systems <br />
+### University of Pittsburgh at Johnstown — Johnstown, PA ● 2015 - 2019 <br />
 Bachelor of Science, Mathematics (Actuarial Concentration) <br />
 Bachelor of Science, Information Systems <br />
 Minor in Marketing <br />
 Summa Cum Laude, Cumulative GPA: 3.8/4.0 <br />
 
+Key Courses <br />
+* Three Semesters of Calculus
+* Three Semesters of Applied Statistics
+* Two Semesters of Operations Research & Math Modeling
+* Linear Algebra
+* Complex Variables & Applications
+* Systems Analysis & Design
+* Database Management Systems
+* Business Intelligence
+* Principles of Marketing & Economics
+
+Honors & Awards <br />
 * Howard M. Picking Jr. Award for Business Excellence: [Speech](https://www.youtube.com/watch?v=CSGT_7AL2OE) and [Article](https://www.richlandsd.com/apps/news/article/854796)
 * Dean’s List	All Semesters
 * John D. Wilson Mathematics Research Award
@@ -27,5 +43,9 @@ Summa Cum Laude, Cumulative GPA: 3.8/4.0 <br />
 
 ## Richland High School - Johnstown, PA
 2011 - 2015 <br />
-
+* Frederick Metzler Business and Technology Award
+* National Honor Society
+* Student of the Month x3
+* Top 20 of class
+* Honor Roll
 <br />
