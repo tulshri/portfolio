@@ -4,7 +4,7 @@ profile_picture:
   src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
-![skills](/assets/img/intersection.png)
+![skills](/assets/img/skills.png)
 <p>
   Greetings! Happy to have you visit.
 </p>
