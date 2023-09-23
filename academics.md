@@ -12,7 +12,7 @@ Key Courses: <br />
 * Predictive Analysis (R, RStudio)
 * Introduction to Natural Language Processing (R, RStudio)  <br />
 
-## <b> Bachelor of Science, Mathematics & Informations Systems </b> <br />
+### <b> Bachelor of Science, Mathematics & Informations Systems </b> <br />
 ### University of Pittsburgh at Johnstown — Johnstown, PA  ●  2015 - 2019 <br />
 Bachelor of Science, Mathematics (Actuarial Concentration) <br />
 Bachelor of Science, Information Systems <br />
@@ -39,9 +39,8 @@ Honors & Awards <br />
 * Sigma Beta Delta International Business Honor Society                                                                                             
 * Phi Eta Sigma Freshman Honor Society <br />
 
-## <b> High School Diploma </b>
-## Richland High School - Johnstown, PA
-### 2011 - 2015 <br />
+### <b> High School Diploma </b>
+### Richland High School - Johnstown, PA  ●  2011 - 2015  <br />
 * Frederick Metzler Business and Technology Award
 * National Honor Society
 * Student of the Month x3
