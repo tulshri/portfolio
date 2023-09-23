@@ -1,6 +1,5 @@
 ---
 layout: work
-title: Experience
 slug: /experience
 items:
   - title: graduate research assistant
@@ -8,6 +7,7 @@ items:
       src: /assets/img/work/gmu-logo.png
       alt: water
     description:
+    items:
     - Lorem ipsum dolor sit amet,
     - consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   - title: bi analyst
