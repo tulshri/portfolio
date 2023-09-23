@@ -3,7 +3,7 @@
 
 title: Tulsi Shrivastava
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  Tulsi Shrivastava Portfolio
 baseurl: "/portfolio" # the subpath of the site
 url: "https://tulshri.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
@@ -26,7 +26,7 @@ footer:
       link: mailto:tshrivas@gmu.edu
   follow:
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: www.linkedin.com/in/tulsi-shrivastava-91b558130
 
 # Build settings
 markdown: kramdown
