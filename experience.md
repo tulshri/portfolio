@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Experience
-slug: /work
+slug: /experience
 items:
   - title: graduate research assistant
     image:
