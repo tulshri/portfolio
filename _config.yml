@@ -16,7 +16,7 @@ header:
     - name: Academics
     - name: Experience
     - name: Projects
-    - name: About Me
+    - name: About
 
 footer:
   show_powered_by: true
