@@ -13,8 +13,12 @@ items:
       src: /assets/img/work/lsi-logo.jpeg
       alt: sand
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
+  - title: Business Intelligence Analyst
+      image:
+        src: /assets/img/work/lsi-logo.jpeg
+        alt: sand
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
 <br />
 <br />
