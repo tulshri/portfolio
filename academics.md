@@ -3,13 +3,14 @@ layout: blog
 title: Academics
 slug: /academics
 ---
+
+## George Mason University —  Fairfax, VA	<br /> 
 2022 - 2024 <br />
-George Mason University —  Fairfax, VA	<br /> 
 Master of Science, Data Analytics Engineering <br />
 Cumulative GPA: 3.8/4.0 <br />
 
-2015 - 2019
-University of Pittsburgh at Johnstown — Johnstown, PA <br />
+## University of Pittsburgh at Johnstown — Johnstown, PA <br />
+2015 - 2019 <br />
 Bachelor of Science, Mathematics (Actuarial Concentration) <br />
 Bachelor of Science, Information Systems <br />
 Minor in Marketing <br />
@@ -23,7 +24,8 @@ Summa Cum Laude, Cumulative GPA: 3.8/4.0 <br />
 * Sigma Beta Delta International Business Honor Society                                                                                             
 * Phi Eta Sigma Freshman Honor Society
 
+
+## Richland High School - Johnstown, PA
 2011 - 2015 <br />
-Richland High School - Johnstown, PA
 
 <br />
