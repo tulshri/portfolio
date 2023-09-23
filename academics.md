@@ -17,9 +17,7 @@ Bachelor of Science, Information Systems
 Minor in Marketing
 Summa Cum Laude, Cumulative GPA: 3.8/4.0
 
-* Howard M. Picking Jr. Award for Business Excellence
- ** [Speech](https://www.youtube.com/watch?v=CSGT_7AL2OE)
- ** [Article](https://www.richlandsd.com/apps/news/article/854796)
+* Howard M. Picking Jr. Award for Business Excellence ([Speech](https://www.youtube.com/watch?v=CSGT_7AL2OE) and [Article](https://www.richlandsd.com/apps/news/article/854796))
 * Dean’s List	All Semesters
 * John D. Wilson Mathematics Research Award
 * College Scholar Award in Information Systems
