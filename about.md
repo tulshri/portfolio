@@ -3,47 +3,27 @@ layout: blog
 title: About
 slug: /about
 ---
-### <b> Master of Science, Data Analytics Engineering </b><br />
-### George Mason University —  Fairfax, VA  ●  2022 - 2024 <br />
-Cumulative GPA: 3.8/4.0 <br />
-Key Courses: <br />
-* Practical Optimization & Decision Analysis (Gurobi, Analytic Solver, SQLite, Python)
-* Applied Statistics & Visualization for Analytics with (R, RStudio)                                                                                            
-* Predictive Analysis (R, RStudio)
-* Introduction to Natural Language Processing (R, RStudio)  <br />
 
-### <b> Bachelor of Science, Mathematics & Informations Systems </b> <br />
-### University of Pittsburgh at Johnstown — Johnstown, PA  ●  2015 - 2019 <br />
-Bachelor of Science, Mathematics (Actuarial Concentration) <br />
-Bachelor of Science, Information Systems <br />
-Minor in Marketing <br />
-Summa Cum Laude, Cumulative GPA: 3.8/4.0 <br />
+Outside of academics, my passions lie in art, dance, and community service. Not only have my personal pursuits brought me joy in life, but they have also strengthened my ability to communicate and understand concepts from different perspectives. 
 
-Key Courses <br />
-* Three Semesters of Calculus
-* Three Semesters of Applied Statistics
-* Two Semesters of Operations Research & Math Modeling
-* Linear Algebra
-* Complex Variables & Applications
-* Systems Analysis & Design
-* Database Management Systems
-* Business Intelligence
-* Principles of Marketing & Economics
+## Community Involvement
+### Unity Coalition of the Southern Alleghenies
 
-Honors & Awards <br />
-* Howard M. Picking Jr. Award for Business Excellence: [Speech](https://www.youtube.com/watch?v=CSGT_7AL2OE) and [Article](https://www.richlandsd.com/apps/news/article/854796)
-* Dean’s List	All Semesters
-* John D. Wilson Mathematics Research Award
-* College Scholar Award in Information Systems
-* Phi Kappa Phi Honor Society
-* Sigma Beta Delta International Business Honor Society                                                                                             
-* Phi Eta Sigma Freshman Honor Society <br />
+### NAACP, Johnstown Branch
 
-### <b> High School Diploma </b>
-### Richland High School - Johnstown, PA  ●  2011 - 2015  <br />
-* Frederick Metzler Business and Technology Award
-* National Honor Society
-* Student of the Month x3
-* Top 20 of class
-* Honor Roll
+### In This Together Cambria
+
+### Children's Books for Charity 
+
+## Interests <br />
+### Bollywood Dance / Choreography <br />
+* Dance Instructor: [Speech](https://www.youtube.com/watch?v=CSGT_7AL2OE) and [Article](https://www.richlandsd.com/apps/news/article/854796)
+* Lead Choreographer of Dance Group & Dance Instructor
+** Choreographed and performed Bollywood dance at 60+ events throughout the Greater Johnstown region
+*** [Speech](https://www.youtube.com/watch?v=CSGT_7AL2OE) and [Article](https://www.richlandsd.com/apps/news/article/854796)
+*** [Speech](https://www.youtube.com/watch?v=CSGT_7AL2OE) and [Article](https://www.richlandsd.com/apps/news/article/854796)
+** Taught dance fitness classes at local studio from September <br />
+
+### Art, Graphic Design, & Calligraphy <br />
+
 <br />
