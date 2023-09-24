@@ -1,21 +1,49 @@
 ---
-layout: default
+layout: blog
+title: About
+slug: /about
 ---
+### <b> Master of Science, Data Analytics Engineering </b><br />
+### George Mason University —  Fairfax, VA  ●  2022 - 2024 <br />
+Cumulative GPA: 3.8/4.0 <br />
+Key Courses: <br />
+* Practical Optimization & Decision Analysis (Gurobi, Analytic Solver, SQLite, Python)
+* Applied Statistics & Visualization for Analytics with (R, RStudio)                                                                                            
+* Predictive Analysis (R, RStudio)
+* Introduction to Natural Language Processing (R, RStudio)  <br />
 
-<p>
-  Greetings! Happy to have you visit.
-</p>
-![skills](/assets/img/skills.png)
-<p>
- <b> Goal: </b> Optimize existing data processes thru mathematical modeling, ensure effective design of reporting systems, and provide specialized insights to those working on the frontlines of social welfare & government solutions. Hope to carve a space for myself at the intersection of data analytics, software development, and visual storytelling.
-</p>
+### <b> Bachelor of Science, Mathematics & Informations Systems </b> <br />
+### University of Pittsburgh at Johnstown — Johnstown, PA  ●  2015 - 2019 <br />
+Bachelor of Science, Mathematics (Actuarial Concentration) <br />
+Bachelor of Science, Information Systems <br />
+Minor in Marketing <br />
+Summa Cum Laude, Cumulative GPA: 3.8/4.0 <br />
 
-<p>
-  <b> My Why: </b>
-  At the beginning of a chilly winter in 2020, I served as a panelist on a community-wide COVID-19 mitigation webinar alongside an infectious disease specialist, an experienced statistician, the local library director, and one of the chief editors of the city newspaper. Sitting at this virtual table in the midst of professionals, I initially doubted my contributions as a young analyst. But through the success of the event, actual mitigation results from our work, and reassurance from the panelists ---- I realized that at the center of our conversation lay the question that has always driven my academic and professional pursuits: <b> how do we convert distressing numbers on a spreadsheet into persuasive stories that inform and protect vulnerable populations? </b> I was exactly where I’m supposed to be. With a foundation in mathematics, experience in the K-12 education technology sector, and a passion for community service, I hope to make a difference via efficient data analysis. 
-</p>
+Key Courses <br />
+* Three Semesters of Calculus
+* Three Semesters of Applied Statistics
+* Two Semesters of Operations Research & Math Modeling
+* Linear Algebra
+* Complex Variables & Applications
+* Systems Analysis & Design
+* Database Management Systems
+* Business Intelligence
+* Principles of Marketing & Economics
 
+Honors & Awards <br />
+* Howard M. Picking Jr. Award for Business Excellence: [Speech](https://www.youtube.com/watch?v=CSGT_7AL2OE) and [Article](https://www.richlandsd.com/apps/news/article/854796)
+* Dean’s List	All Semesters
+* John D. Wilson Mathematics Research Award
+* College Scholar Award in Information Systems
+* Phi Kappa Phi Honor Society
+* Sigma Beta Delta International Business Honor Society                                                                                             
+* Phi Eta Sigma Freshman Honor Society <br />
 
-<p>
-This site uses the Bay Jekyll theme, created by Elliot Vincent (<a href="https://eliottvincent.github.io/bay/">Github</a>) and directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>. You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+### <b> High School Diploma </b>
+### Richland High School - Johnstown, PA  ●  2011 - 2015  <br />
+* Frederick Metzler Business and Technology Award
+* National Honor Society
+* Student of the Month x3
+* Top 20 of class
+* Honor Roll
+<br />
