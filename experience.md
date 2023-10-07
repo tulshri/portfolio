@@ -29,6 +29,17 @@ This is the first paragraph of your content after Image 1.
 This is the second paragraph of your content after Image 2.
 
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="/assets/img/work/gmu-logo.png" alt="Company Logo" style="width: 100px; height: auto; margin-right: 20px;">
+    <div>
+        <h2>Company Name</h2>
+        <p>Description about the company. This can be a brief overview of what the company does.</p>
+    </div>
+</div>
+
+<p>This is a paragraph that comes after the company logo and description. You can add more content here.</p>
+
+
 
 <br />
 <br />
