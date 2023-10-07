@@ -29,7 +29,7 @@ Planned, illustrated, and organized a children's book with a team - for a local 
 ## <b> Interests </b> <br />
 ### Bollywood Dance / Choreography <br />
 * Lead Choreographer of Dance Group & Dance Instructor
-* Choreographed and performed Bollywood dance at 60+ events throughout the Greater Johnstown region
+* Choreographed and performed Bollywood dance at 60+ events throughout the region
  * [News Article: Ethnic Showcase Event shows Culture of India](https://www.tribdem.com/community/ethnic-alternative-mini-festival-will-showcase-tastes-culture-of-india/article_eef18c7b-3416-5139-ac6a-11876444b5a9.html)
 * Dance Fitness Teacher at local studio 
 
