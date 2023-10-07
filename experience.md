@@ -7,8 +7,8 @@ slug: /experience
 
 ![GMU logo](/assets/img/work/gmu-logo.png){:width="120px" height="auto"} ![CIL logo](/assets/img/work/cil_logo.png){:width="180px" height="auto"}
 ### <b>Graduate Research Assistant </b>
-#### Community Informatics Lab   •   May 2023 - Present
-#### GMU Department of Information Sciences and Technology
+### [Community Informatics Lab](https://cil.cec.gmu.edu/)   •   May 2023 - Present
+### GMU Department of Information Sciences and Technology
 ### Fairfax, Virginia
 * Lead researcher on state-funded project for Virginia Board for People with Disabilities (VBPD) to understand the fragmentation of disability service information 
 * Conducting interviews with various disability providers using snowball sampling; including coordinating ASL communication & managing 50+ transcriptions 
