@@ -4,7 +4,7 @@ title: Academics
 slug: /academics
 ---
 
-![GMU CEC Logo](/assets/img/work/gmu-cec-logo.png){:width="200px" height="auto"}
+![GMU CEC Logo](/assets/img/work/gmu-cec-logo.png){:width="250px" height="auto"}
 
 ### <b> Master of Science, Data Analytics Engineering </b><br />
 ### George Mason University —  Fairfax, VA  •  2022 - 2024 <br />
@@ -14,6 +14,8 @@ Key Courses: <br />
 * Applied Statistics & Visualization for Analytics with (R, RStudio)                                                                                            
 * Predictive Analysis (R, RStudio)
 * Introduction to Natural Language Processing (R, RStudio)  <br />
+
+###
 
 ![UPJ Logo](/assets/img/work/upj-Logo.png){:width="200px" height="auto"}
 
@@ -44,6 +46,8 @@ Honors & Awards:
 * Phi Kappa Phi Honor Society
 * Sigma Beta Delta International Business Honor Society                                                                                             
 * Phi Eta Sigma Freshman Honor Society <br />
+
+###
 
 ![UPJ Logo](/assets/img/work/upj-Logo.png){:width="200px" height="auto"}
 
