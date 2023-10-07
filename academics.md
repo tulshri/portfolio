@@ -18,8 +18,7 @@ Bachelor of Science, Mathematics (Actuarial Concentration) <br />
 Bachelor of Science, Information Systems <br />
 Minor in Marketing <br />
 Summa Cum Laude, Cumulative GPA: 3.8/4.0 <br />
-
-Key Courses
+Key Courses:
 * Three Semesters of Calculus
 * Three Semesters of Applied Statistics
 * Two Semesters of Operations Research & Math Modeling
@@ -30,9 +29,9 @@ Key Courses
 * Business Intelligence
 * Principles of Marketing & Economics
 
-Honors & Awards <br />
-* Howard M. Picking Jr. Award for Business Excellence: [Speech](https://www.youtube.com/watch?v=CSGT_7AL2OE) and [Article](https://www.richlandsd.com/apps/news/article/854796)
-* Dean’s List	All Semesters
+Honors & Awards:
+* Howard M. Picking Jr. Award for Business Excellence: [Speech at Honors Convocation](https://www.youtube.com/watch?v=CSGT_7AL2OE) and [Article](https://www.richlandsd.com/apps/news/article/854796)
+* Dean’s List -	All Semesters
 * John D. Wilson Mathematics Research Award
 * College Scholar Award in Information Systems
 * Phi Kappa Phi Honor Society
