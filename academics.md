@@ -3,6 +3,9 @@ layout: default
 title: Academics
 slug: /academics
 ---
+
+![GMU CEC Logo](/assets/img/work/gmu-cec-logo.png){:width="100px" height="auto"}
+
 ### <b> Master of Science, Data Analytics Engineering </b><br />
 ### George Mason University —  Fairfax, VA  •  2022 - 2024 <br />
 Cumulative GPA: 3.8/4.0 <br />
@@ -11,6 +14,8 @@ Key Courses: <br />
 * Applied Statistics & Visualization for Analytics with (R, RStudio)                                                                                            
 * Predictive Analysis (R, RStudio)
 * Introduction to Natural Language Processing (R, RStudio)  <br />
+
+![UPJ Logo](/assets/img/work/upj-logo.png){:width="100px" height="auto"}
 
 ### <b> Bachelor of Science, Mathematics & Informations Systems </b> <br />
 ### University of Pittsburgh at Johnstown — Johnstown, PA   •   2015 - 2019 <br />
