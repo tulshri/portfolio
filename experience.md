@@ -18,7 +18,7 @@ items:
 ---
 
 
-![GMU](/assets/img/work/gmu-logo.png)
+![GMU](/assets/img/work/gmu-logo.png){:width="300px" height="200px"}
 *George Mason University*
 
 This is the first paragraph of your content after Image 1.
