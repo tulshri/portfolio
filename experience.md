@@ -2,6 +2,8 @@
 layout: work
 title: Experience
 slug: /experience
+
+
 items:
   - title: Graduate Research Assistant
     image:
@@ -14,6 +16,15 @@ items:
       alt: sand
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod te
 ---
+
+
+image:
+      src: /assets/img/work/gmu-logo.png
+      alt: water
+
+hello my name is tulsi testing
+
+
 
 <br />
 <br />
