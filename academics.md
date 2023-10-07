@@ -13,6 +13,7 @@ Key Courses: <br />
 * Introduction to Natural Language Processing (R, RStudio)  <br />
 
 ### <b> Bachelor of Science, Mathematics & Informations Systems </b> <br />
+### <b> Minor in Marketing </b> <br />
 ### University of Pittsburgh at Johnstown — Johnstown, PA  ●  2015 - 2019 <br />
 Bachelor of Science, Mathematics (Actuarial Concentration) <br />
 Bachelor of Science, Information Systems <br />
