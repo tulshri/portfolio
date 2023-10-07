@@ -7,8 +7,8 @@ slug: /experience
 
 ![GMU logo](/assets/img/work/gmu-logo.png){:width="120px" height="auto"} ![CIL logo](/assets/img/work/cil_logo.png){:width="180px" height="auto"}
 ### <b>Graduate Research Assistant </b>
-### Community Informatics Lab   •   May 2023 - Present
-### GMU Department of Information Sciences and Technology
+#### Community Informatics Lab   •   May 2023 - Present
+#### GMU Department of Information Sciences and Technology
 ### Fairfax, Virginia
 * Lead researcher on state-funded project for Virginia Board for People with Disabilities (VBPD) to understand the fragmentation of disability service information 
 * Conducting interviews with various disability providers using snowball sampling; including coordinating ASL communication & managing 50+ transcriptions 
@@ -25,7 +25,7 @@ slug: /experience
 * Designed data models with engineers and stakeholders to fit reporting requirements
 * Served as liaison and between software developers, education consultants, and end-users
 
-![LSI](/assets/img/work/lsi-logo.jpeg){:width="120px" height="auto"}
+![LSI](/assets/img/work/ps-logo.png){:width="120px" height="auto"}
 ### <b>Systems Analyst Intern</b>
 ### Problem Solutions Software   •   April 2018 - March 2019
 ### Johnstown, Pennsylvania
@@ -33,7 +33,7 @@ slug: /experience
 * Prepared business documentation – product backlogs, proposals, roadmaps, diagrams, POA&Ms
 * Assisted in the QA Testing of applications during development
 
-![LSI](/assets/img/work/lsi-logo.jpeg){:width="120px" height="auto"}
+![LSI](/assets/img/work/camtran-logo.jpg){:width="120px" height="auto"}
 ### <b>Marketing Intern</b>
 ### Cambria County Transit Authority (CamTran)   •    May 2017 - August 2017
 ### Johnstown, Pennsylvania
