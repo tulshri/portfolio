@@ -15,7 +15,7 @@ Key Courses: <br />
 * Predictive Analysis (R, RStudio)
 * Introduction to Natural Language Processing (R, RStudio)  <br />
 
-![UPJ Logo](/assets/img/work/upj-logo.png){:width="100px" height="auto"}
+![UPJ Logo](/assets/img/work/upj-Logo.png){:width="100px" height="auto"}
 
 ### <b> Bachelor of Science, Mathematics & Informations Systems </b> <br />
 ### University of Pittsburgh at Johnstown — Johnstown, PA   •   2015 - 2019 <br />
