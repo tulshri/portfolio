@@ -34,6 +34,8 @@ Key Courses:
 * Business Intelligence
 * Principles of Marketing & Economics
 
+[Link Text](/assets/img/work/TShrivastava_Assignment9.pdf)
+
 Honors & Awards:
 * Howard M. Picking Jr. Award for Business Excellence: [Speech at Honors Convocation](https://www.youtube.com/watch?v=CSGT_7AL2OE) and [Article](https://www.richlandsd.com/apps/news/article/854796)
 * Dean’s List -	All Semesters
