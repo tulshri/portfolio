@@ -6,16 +6,17 @@ slug: /experience
 
 
 ![GMU logo](/assets/img/work/gmu-logo.png){:width="120px" height="auto"} ![CIL logo](/assets/img/work/cil_logo.png){:width="150px" height="auto"}
-## <b>Graduate Research Assistant </b>
-### Community Informatics Lab • GMU Department of Information Sciences and Technology •  May 2023 - Present
+### <b>Graduate Research Assistant </b>
+### Community Informatics Lab   •   May 2023 - Present
+### GMU Department of Information Sciences and Technology
 ### Fairfax, Virginia
 * Lead researcher on state-funded project for Virginia Board for People with Disabilities (VBPD) to understand the fragmentation of disability service information 
-Conducting interviews with various disability providers using snowball sampling; including coordinating ASL communication & managing 50+ transcriptions 
-Qualitative data coding and analysis of interviews and surveys in Excel and Atlas TI to identify information gaps
+* Conducting interviews with various disability providers using snowball sampling; including coordinating ASL communication & managing 50+ transcriptions 
+* Qualitative data coding and analysis of interviews and surveys in Excel and Atlas TI to identify information gaps
 
 ![LSI](/assets/img/work/lsi-logo.jpeg){:width="120px" height="auto"}
-## <b>Business Intelligence Analyst</b>
-### Learning Sciences International •  April 2019 - April 2022
+### <b>Business Intelligence Analyst</b>
+### Learning Sciences International   •   April 2019 - April 2022
 ### Johnstown, Pennsylvania
 * Built and managed 30+ user-facing KPI dashboards embedded in the application environments from proof-of-concept stage to production deployment, which were used to market the strength of the tool and help educators with academic success
 * Process Efficiency: Reduced the manual run time of an internal process for a large school district from 8 hours per week to 10 minutes per month 
@@ -25,16 +26,16 @@ Qualitative data coding and analysis of interviews and surveys in Excel and Atla
 * Served as liaison and between software developers, education consultants, and end-users
 
 ![LSI](/assets/img/work/lsi-logo.jpeg){:width="120px" height="auto"}
-## <b>Systems Analyst Intern</b>
-### Problem Solutions Software •  April 2018 - March 2019
+### <b>Systems Analyst Intern</b>
+### Problem Solutions Software   •   April 2018 - March 2019
 ### Johnstown, Pennsylvania
 * Employed UI/UX design, rapid prototyping methods, and requirements elicitation techniques to software solutions for commercial and government clients
 * Prepared business documentation – product backlogs, proposals, roadmaps, diagrams, POA&Ms
 * Assisted in the QA Testing of applications during development
 
 ![LSI](/assets/img/work/lsi-logo.jpeg){:width="120px" height="auto"}
-## <b>Marketing Intern</b>
-### Cambria County Transit Authority (CamTran) •  May 2017 - August 2017
+### <b>Marketing Intern</b>
+### Cambria County Transit Authority (CamTran)   •    May 2017 - August 2017
 ### Johnstown, Pennsylvania
 * Designed flyers, brochures, signage, and social media posts and giveaways
 * Drafted company documents, press releases, articles, and fundraising letters
