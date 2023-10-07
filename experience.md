@@ -5,7 +5,7 @@ slug: /experience
 ---
 
 
-![GMU logo](/assets/img/work/gmu-logo.png){:width="120px" height="auto"} ![CIL logo](/assets/img/work/cil_logo.png){:width="150px" height="auto"}
+![GMU logo](/assets/img/work/gmu-logo.png){:width="120px" height="auto"} ![CIL logo](/assets/img/work/cil_logo.png){:width="180px" height="auto"}
 ### <b>Graduate Research Assistant </b>
 ### Community Informatics Lab   •   May 2023 - Present
 ### GMU Department of Information Sciences and Technology
