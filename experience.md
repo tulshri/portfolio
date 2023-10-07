@@ -18,11 +18,15 @@ items:
 ---
 
 
-image:
-      src: /assets/img/work/gmu-logo.png
-      alt: water
+![GMU](/assets/img/work/gmu-logo.png)
+*George Mason University*
 
-hello my name is tulsi testing
+This is the first paragraph of your content after Image 1.
+
+![LSI](/assets/img/work/lsi-logo.jpeg)
+*Description for Image 2*
+
+This is the second paragraph of your content after Image 2.
 
 
 
