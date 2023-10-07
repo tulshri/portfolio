@@ -4,7 +4,7 @@ title: Academics
 slug: /academics
 ---
 ### <b> Master of Science, Data Analytics Engineering </b><br />
-### George Mason University —  Fairfax, VA  ●  2022 - 2024 <br />
+### George Mason University —  Fairfax, VA  •  2022 - 2024 <br />
 Cumulative GPA: 3.8/4.0 <br />
 Key Courses: <br />
 * Practical Optimization & Decision Analysis (Gurobi, Analytic Solver, SQLite, Python)
@@ -13,14 +13,13 @@ Key Courses: <br />
 * Introduction to Natural Language Processing (R, RStudio)  <br />
 
 ### <b> Bachelor of Science, Mathematics & Informations Systems </b> <br />
-### <b> Minor in Marketing </b> <br />
-### University of Pittsburgh at Johnstown — Johnstown, PA  ●  2015 - 2019 <br />
+### University of Pittsburgh at Johnstown — Johnstown, PA   •   2015 - 2019 <br />
 Bachelor of Science, Mathematics (Actuarial Concentration) <br />
 Bachelor of Science, Information Systems <br />
 Minor in Marketing <br />
 Summa Cum Laude, Cumulative GPA: 3.8/4.0 <br />
 
-Key Courses <br />
+Key Courses
 * Three Semesters of Calculus
 * Three Semesters of Applied Statistics
 * Two Semesters of Operations Research & Math Modeling
@@ -41,7 +40,7 @@ Honors & Awards <br />
 * Phi Eta Sigma Freshman Honor Society <br />
 
 ### <b> High School Diploma </b>
-### Richland High School - Johnstown, PA  ●  2011 - 2015  <br />
+### Richland High School - Johnstown, PA   •   2011 - 2015  <br />
 * Frederick Metzler Business and Technology Award
 * National Honor Society
 * Student of the Month x3
