@@ -16,7 +16,7 @@ Committee co-chair of a social justice advocacy organization dedicated to forgin
 ### NAACP, Johnstown Branch
 150+ hours of creating promotional materials for events, public speaking, and event planning with community leaders. <br />
 * In the News:
-* * [Juneteenth Involvement with Unity Day](https://www.tribdem.com/news/juneteenth-in-johnstown-come-alive-with-the-community-unity-day-celebration-focuses-on-togetherness-culture/article_0ffedca8-0b71-11ee-b97c-ab42b239f205.html)
+ * [Juneteenth Involvement with Unity Day](https://www.tribdem.com/news/juneteenth-in-johnstown-come-alive-with-the-community-unity-day-celebration-focuses-on-togetherness-culture/article_0ffedca8-0b71-11ee-b97c-ab42b239f205.html)
 
 ### In This Together Cambria
 Committee co-chair of advocacy team that champions community-led solutions to reduce the spread of COVID-19 in Cambria County. Lead of Storytelling team that collects and shares COVID impact stories from residents of Cambria County to encourage mitigation efforts. Served as panelist for a webinar aimed at explaining statistics of virus spread to the general public.  <br />
@@ -27,14 +27,14 @@ Committee co-chair of advocacy team that champions community-led solutions to re
 
 ### Children's Books for Charity
 Planned, illustrated, and organized a children's book with a team - for a local elementary school
-  * [Link to E-Book on Apple Books]([https://www.tribdem.com/coronavirus/experts-at-forum-numbers-don-t-lie-on-covid-19-data/article_40f19100-605d-11eb-8870-e3e9b910ac2d.html](https://books.apple.com/us/book/wesleys-song/id1138920836))
+  * [Link to E-Book on Apple Books](https://books.apple.com/us/book/wesleys-song/id1138920836)
 
 ## <b> Interests </b> <br />
 ### Bollywood Dance / Choreography <br />
 * Lead Choreographer of Dance Group & Dance Instructor
-* * Choreographed and performed Bollywood dance at 60+ events throughout the Greater Johnstown region
- * * [Ethnic Showcase Event](https://www.tribdem.com/community/ethnic-alternative-mini-festival-will-showcase-tastes-culture-of-india/article_eef18c7b-3416-5139-ac6a-11876444b5a9.html)
-* * Taught dance fitness classes at local studio from September <br />
+* Choreographed and performed Bollywood dance at 60+ events throughout the Greater Johnstown region
+ * [Ethnic Showcase Event](https://www.tribdem.com/community/ethnic-alternative-mini-festival-will-showcase-tastes-culture-of-india/article_eef18c7b-3416-5139-ac6a-11876444b5a9.html)
+* Dance Fitness Teacher at local studio 
 
 ### Art, Graphic Design, & Calligraphy <br />
 * [Instagram Art Page with Samples](https://www.tribdem.com/community/ethnic-alternative-mini-festival-will-showcase-tastes-culture-of-india/article_eef18c7b-3416-5139-ac6a-11876444b5a9.html)
