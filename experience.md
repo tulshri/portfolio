@@ -25,7 +25,7 @@ slug: /experience
 * Designed data models with engineers and stakeholders to fit reporting requirements
 * Served as liaison and between software developers, education consultants, and end-users
 
-![LSI](/assets/img/work/ps-logo.png){:width="120px" height="auto"}
+![PS](/assets/img/work/ps-logo.png){:width="120px" height="auto"}
 ### <b>Systems Analyst Intern</b>
 ### Problem Solutions Software   •   April 2018 - March 2019
 ### Johnstown, Pennsylvania
@@ -34,7 +34,22 @@ slug: /experience
 * Prepared business documentation – product backlogs, proposals, roadmaps, diagrams, POA&Ms
 * Assisted in the QA Testing of applications during development
 
-![LSI](/assets/img/work/camtran-logo.jpg){:width="120px" height="auto"}
+<div style="display: flex; align-items: flex-start;">
+    <img src="/assets/img/work/ps-logo.png" alt="Image Alt Text" style="width: 1200px; height: auto; margin-right: 20px;">
+    <div>
+        <p>
+          <b>Systems Analyst Intern</b>
+          - Problem Solutions Software
+          - April 2018 - March 2019
+          - Johnstown, Pennsylvania
+        
+        </p>
+    </div>
+</div>
+
+
+
+![CamTran](/assets/img/work/camtran-logo.jpg){:width="120px" height="auto"}
 ### <b>Marketing Intern</b>
 ### Cambria County Transit Authority (CamTran)   •    May 2017 - August 2017
 ### Johnstown, Pennsylvania
