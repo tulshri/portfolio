@@ -29,7 +29,7 @@ slug: /experience
 ### <b>Systems Analyst Intern</b>
 ### Problem Solutions Software   •   April 2018 - March 2019
 ### Johnstown, Pennsylvania
-* [UI/UX Portfolio Samples PDF](/assets/files/Tulsi_Shrivastava_UI_UX_Portfolio){:target="_blank"}
+* [UI/UX Portfolio Samples PDF](/assets/files/Tulsi_Shrivastava_UI_UX_Portfolio.pdf){:target="_blank"}
 * Employed UI/UX design, rapid prototyping methods, and requirements elicitation techniques to software solutions for commercial and government clients
 * Prepared business documentation – product backlogs, proposals, roadmaps, diagrams, POA&Ms
 * Assisted in the QA Testing of applications during development
