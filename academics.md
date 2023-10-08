@@ -47,7 +47,7 @@ Honors & Awards:
 
 <br />
 
-![RSD Logo](/assets/img/work/rsd-logo.jpg){:width="200px" height="auto"}
+![RSD Logo](/assets/img/work/rsd-logo.jpg){:width="170px" height="auto"}
 
 ### <b> High School Diploma </b>
 ### Richland High School - Johnstown, PA   •   2011 - 2015  <br />
