@@ -4,7 +4,7 @@ title: Academics
 slug: /academics
 ---
 
-![GMU CEC Logo](/assets/img/work/gmu-cec-logo.png){:width="250px" height="auto"}
+![GMU CEC Logo](/assets/img/work/gmu-cec-logo.png){:width="275px" height="auto"}
 
 ### <b> Master of Science, Data Analytics Engineering </b><br />
 ### George Mason University —  Fairfax, VA  •  2022 - 2024 <br />
@@ -15,7 +15,7 @@ Key Courses: <br />
 * Predictive Analysis (R, RStudio)
 * Introduction to Natural Language Processing (R, RStudio)  <br />
 
-###
+<br />
 
 ![UPJ Logo](/assets/img/work/upj-Logo.png){:width="200px" height="auto"}
 
@@ -36,8 +36,6 @@ Key Courses:
 * Business Intelligence
 * Principles of Marketing & Economics
 
-[Link Text](/assets/img/work/TShrivastava_Assignment9.pdf)
-
 Honors & Awards:
 * Howard M. Picking Jr. Award for Business Excellence: [Speech at Honors Convocation](https://www.youtube.com/watch?v=CSGT_7AL2OE) and [Article](https://www.richlandsd.com/apps/news/article/854796)
 * Dean’s List -	All Semesters
@@ -47,9 +45,9 @@ Honors & Awards:
 * Sigma Beta Delta International Business Honor Society                                                                                             
 * Phi Eta Sigma Freshman Honor Society <br />
 
-###
+<br />
 
-![UPJ Logo](/assets/img/work/upj-Logo.png){:width="200px" height="auto"}
+![UPJ Logo](/assets/img/work/rsd-logo.png){:width="200px" height="auto"}
 
 ### <b> High School Diploma </b>
 ### Richland High School - Johnstown, PA   •   2011 - 2015  <br />
