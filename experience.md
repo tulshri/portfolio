@@ -5,7 +5,7 @@ slug: /experience
 ---
 
 
-![GMU logo](/assets/img/work/gmu-logo.png){:width="120px" height="auto"} ![CIL logo](/assets/img/work/cil-logo.png){:width="160px" height="auto"}
+![CIL logo](/assets/img/work/cil-logo.png){:width="200px" height="auto"}
 ### <b>Graduate Research Assistant </b>
 ### [Community Informatics Lab](https://cil.cec.gmu.edu/)   •   May 2023 - Present
 ### GMU Department of Information Sciences and Technology
@@ -34,7 +34,7 @@ slug: /experience
 * Prepared business documentation – product backlogs, proposals, roadmaps, diagrams, POA&Ms
 * Assisted in the QA Testing of applications during development
 
-</br>
+<br/>
 
 ![CamTran](/assets/img/work/camtran-logo.jpg){:width="120px" height="auto"}
 ### <b>Marketing Intern</b>
