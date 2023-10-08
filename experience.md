@@ -34,20 +34,7 @@ slug: /experience
 * Prepared business documentation – product backlogs, proposals, roadmaps, diagrams, POA&Ms
 * Assisted in the QA Testing of applications during development
 
-<div style="display: flex; align-items: flex-start;">
-    <img src="/assets/img/work/ps-logo.png" alt="Image Alt Text" style="width: 1200px; height: auto; margin-right: 20px;">
-    <div>
-        <p>
-          <b>Systems Analyst Intern</b>
-          - Problem Solutions Software
-          - April 2018 - March 2019
-          - Johnstown, Pennsylvania
-        
-        </p>
-    </div>
-</div>
-
-
+</br>
 
 ![CamTran](/assets/img/work/camtran-logo.jpg){:width="120px" height="auto"}
 ### <b>Marketing Intern</b>
