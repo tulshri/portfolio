@@ -36,7 +36,7 @@ slug: /experience
 
 <br/>
 
-![CamTran](/assets/img/work/camtran-logo.jpg){:width="120px" height="auto"}
+![CamTran](/assets/img/work/camtran-logo.jpg){:width="150px" height="auto"}
 ### <b>Marketing Intern</b>
 ### Cambria County Transit Authority (CamTran)   •    May 2017 - August 2017
 ### Johnstown, Pennsylvania
