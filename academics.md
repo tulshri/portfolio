@@ -4,7 +4,7 @@ title: Academics
 slug: /academics
 ---
 
-![GMU CEC Logo](/assets/img/work/gmu-cec-logo.png){:width="275px" height="auto"}
+![GMU CEC Logo](/assets/img/work/gmu-cec-logo.png){:width="300px" height="auto"}
 
 ### <b> Master of Science, Data Analytics Engineering </b><br />
 ### George Mason University —  Fairfax, VA  •  2022 - 2024 <br />
