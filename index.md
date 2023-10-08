@@ -11,7 +11,7 @@ profile_picture:
 ![skills](/assets/img/skills.png)
 
 <p>
- <b> Resume: </b> [Download PDF](/assets/files/Tulsi_Shrivastava_Resume_2023.pdf)
+ <b> Resume: </b> [Download PDF](/assets/files/Tulsi_Shrivastava_Resume_2023.pdf){:target="_blank"}
 </p>
 
 <p>
