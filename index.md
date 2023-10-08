@@ -6,12 +6,12 @@ profile_picture:
 ---
 
 <p>
-  Greetings & Namaste! Happy to have you visit.
+  Greetings & Namaste! Happy to have you visit. 
 </p>
 ![skills](/assets/img/skills.png)
 
 <p>
- <b> Resume: </b> [Download PDF](/path/to/your/pdf/file.pdf)
+ <b> Resume: </b> [Download PDF](/assets/files/Tulsi_Shrivastava_Resume_2023.pdf)
 </p>
 
 <p>
@@ -20,7 +20,7 @@ profile_picture:
 
 <p>
   <b> My Why: </b>
-  At the beginning of a chilly winter in 2020, I served as a panelist on a community-wide COVID-19 mitigation webinar alongside an infectious disease specialist, an experienced statistician, the local library director, and one of the chief editors of the city newspaper. Sitting at this virtual table in the midst of professionals, I initially doubted my contributions as a young analyst. But through the success of the event, actual mitigation results from our work, and reassurance from the panelists ---- I realized that at the center of our conversation lay the question that has always driven my academic and professional pursuits: <b> how do we convert distressing numbers on a spreadsheet into persuasive stories that inform and protect vulnerable populations? </b> I was exactly where I’m supposed to be. With a foundation in mathematics, experience in the K-12 education technology sector, and a passion for community service, I hope to make a difference via efficient data analysis. 
+  At the beginning of a chilly winter in 2020, I served as a panelist on a community-wide COVID-19 mitigation webinar alongside an infectious disease specialist, an experienced statistician, the local library director, and one of the chief editors of the city newspaper. Sitting at this virtual table in the midst of professionals, I initially doubted my contributions as a young analyst. But through the success of the event, actual mitigation results from our work, and reassurance from the panelists ---- I realized that at the center of our conversation lay the question that has always driven my academic and professional pursuits: <b> how do we convert distressing numbers on a spreadsheet into persuasive stories that inform and protect vulnerable populations? </b> I was exactly where I’m supposed to be. With a foundation in mathematics, experience in the K-12 education technology sector, an eye for visual design, and a passion for community, I hope to make a difference via efficient data analysis. 
 </p>
 
 
