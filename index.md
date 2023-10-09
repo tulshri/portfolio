@@ -12,12 +12,14 @@ profile_picture:
 
 <p>
 With a foundation in mathematics, three years of BI experience in the K-12 education technology sector, an eye for visual design, and a strong passion for community, I hope to make a difference via efficient data analysis and visual storytelling. 
-<//p>
+</p>
 
 
 <p>
  <b> Resume: </b> <a href="/assets/files/Tulsi_Shrivastava_Resume_2023.pdf">Download PDF</a>
 </p>
+
+* [UI/UX Portfolio Samples PDF](/assets/files/Tulsi_Shrivastava_UI_UX_Portfolio.pdf){:target="_blank"}
 
 <p>
  <b> Goal: </b> Optimize existing data processes thru mathematical modeling, ensure effective design of reporting systems, and provide specialized insights to those working on the frontlines of social welfare & government solutions. Hope to carve a space for myself at the intersection of data analytics, software development, and visual storytelling.
