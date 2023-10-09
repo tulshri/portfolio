@@ -11,7 +11,7 @@ profile_picture:
 ![skills](/assets/img/skills.png)
 
 <p>
-With a foundation in mathematics, three years of BI experience in the K-12 education technology sector, an eye for visual design, and a strong passion for community, I hope to make a difference via efficient data analysis and visual storytelling. 
+With a foundation in mathematics, three years of BI experience in K-12 education technology, an eye for visual design, and a strong passion for community, I hope to make a difference via efficient analysis and data storytelling. 
 </p>
 
 
